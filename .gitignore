@@ -1,0 +1,5 @@
+# Project exclude paths
+/gson/target/
+/json-simple/target/
+/opencsv/target/
+/target/
